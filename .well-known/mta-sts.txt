@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
 mx: minsthorpe-cc.mail.protection.outlook.com
+mx: minsthorpe-com.mail.protection.outloook.com
 max_age: 86401
